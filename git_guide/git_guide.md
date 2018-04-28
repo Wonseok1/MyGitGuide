@@ -6,7 +6,7 @@
 
 
 
-##Git은 무엇인가?
+## Git은 무엇인가?
 
 **Git은 프로젝트를 빠르고 효과적으로 관리할 수 있도록 개발된 오픈소스 버전 관리 시스템이다.**
 
@@ -33,7 +33,8 @@ Git is a free and open source distributed version control system designed to han
 
 
 
-##Git 사용 준비
+
+## Git 사용 준비
 
 ### Git 설치
 
