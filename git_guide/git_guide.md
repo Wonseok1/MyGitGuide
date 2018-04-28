@@ -22,6 +22,8 @@ Git is a free and open source distributed version control system designed to han
 
 
 
+
+
 **저장소(Repository)**
 
 저장소는 프로젝트에서 작성한 파일 폴더 등을 저장해 두는 곳으로, 원격 저장소와 로컬 저장소로 구분된다. 
@@ -140,6 +142,10 @@ Git은 콘솔(터미널) 환경에서 활용할 수 있지만, 편리하게 GUI 
 
 ![img1](./imgs/img24.png)
 
+
+
+- "Sign in with GitHub" 버튼 선택
+
 ![img1](./imgs/img25.png)
 
 ![img1](./imgs/img26.png)
@@ -180,7 +186,7 @@ Git은 콘솔(터미널) 환경에서 활용할 수 있지만, 편리하게 GUI 
 
 ## Git의 활용
 
-###커밋 (Commit)
+### 커밋 (Commit)
 
 코드를 작성한 후 원격저장소에 업로드할 내용을 설정하는 단계
 
