@@ -237,7 +237,8 @@ Git은 콘솔(터미널) 환경에서 활용할 수 있지만, 편리하게 GUI 
 
 
 
-##References
+
+## References
 
 누구나 쉽게 이해할 수 있는 Git 입문 (https://backlog.com/git-tutorial/kr/)
 
